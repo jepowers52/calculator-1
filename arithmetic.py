@@ -47,7 +47,7 @@ def cube(num1):
 def power(num1, num2):
     """Raise num1 to the power of num2 and return the value."""
 
-    pow_num = num1 ^ num2
+    pow_num = num1 ** num2
 
     return pow_num
 
